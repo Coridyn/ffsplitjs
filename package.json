@@ -1,0 +1,10 @@
+{
+  "name": "ffsplitjs",
+  "version": "0.1.0",
+  "description": "Record audio (encoding as mp3) and automatically split into separate files.",
+  "dependencies": {
+    "prompt": "~0.2.12",
+    "async": "~0.7.0",
+    "inquirer": "~0.4.1"
+  }
+}
